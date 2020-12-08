@@ -20,5 +20,6 @@ Attached is the link to where the can be viewed in the notebook:
 [Deepnote Code](https://deepnote.com/project/b22b1f2b-a30e-495f-a0d8-d5893f4ad87f "Deepnote File")
 ## Project Report
 Attached is the link to the where the report of the project can be found:
+[Project Report](https://github.com/dhruvbs/Covid_Election_Correlation/blob/main/COVID_Election_Report.pdf "Project Report")
 
 
