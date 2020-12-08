@@ -6,7 +6,7 @@
 * [Deepnote File](#deepnote-file)
 * [Project Report](#project-report)
 ## Quick Summary
-In the Covid Election Correlation Project, I create a correlation heatmap to find any potential correlations between a states political bias and COVID cases or projected max cases using a logistic curve. 
+In the Covid Election Correlation Project, I create a correlation heatmap to find any potential correlations between a states political affilitation and COVID cases or projected max cases using a logistic curve. I use the 2016 election results to find the states political leaning. A logistic curve is created to estimate the max cases in each state. 
 ## Technologies and Installation
 Project is created with:
 * Python version: 3.7
